@@ -1,2 +1,2 @@
 # Curso-Youtube
-Ejercicio de Git y Gothub en curso de yourube
+Ejercicio de Git y Github en curso de yourube
